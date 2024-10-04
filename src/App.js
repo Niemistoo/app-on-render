@@ -6,16 +6,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          Hello fellow student!
+        </h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This Create App is deployed on Render
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Niemistoo/app-on-render"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          View on GitHub
         </a>
       </header>
     </div>
